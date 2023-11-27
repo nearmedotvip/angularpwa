@@ -1,0 +1,13 @@
+{
+  "name": "my-angular-pwa",
+  "version": "0.0.1",
+  "description": "My Angular Progressive Web App",
+  "license": "MIT",
+  "dependencies": {
+    "@angular/core": "^14.2.0",
+    "@angular/common": "^14.2.0",
+    "@angular/router": "^14.2.0",
+    "@angular/service-worker": "^14.2.0",
+    "rxjs": "^7.5.5"
+  }
+}
